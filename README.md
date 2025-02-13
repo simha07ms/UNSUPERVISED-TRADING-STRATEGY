@@ -1,4 +1,9 @@
 #### Disclaimer  
+
+### 📥 How to Use  
+1. Click *"View raw"* to download Machine Learning for Algo Trading.zip.  
+2. Extract the zip file to view the code and datasets.  
+3. Open the scripts inside Jupyter Notebook or Python.
 Some materials in this project are for educational purposes only.  
 the data and information present in this is not investment advice
 If any content belongs to you and should be removed, please contact me.
