@@ -1,3 +1,10 @@
+#### Disclaimer  
+Some materials in this project are for educational purposes only.  
+the data and information present in this is not investment advice
+If any content belongs to you and should be removed, please contact me.
+
+
+
 unsupervised Trading Strategy
 
 A project on algorithmic trading using machine learning techniques.
